@@ -1,0 +1,28 @@
+.header {
+    overflow: hidden;
+    background-color: #a5a339;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+
+   }
+   #p1{
+    background: #8577654f;
+    text-align: center;
+}
+#p1 p{
+    line-height: 1.5em;
+    line-height: 1.5em;
+}
+#menu-centered ul {
+    text-align: left;
+    padding: 1px 25px;
+    }
+
+#p2{
+    background: #3835304f;
+    text-align: center;
+
+
+}
